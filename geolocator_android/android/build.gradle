@@ -26,8 +26,8 @@ android {
         namespace("com.baseflow.geolocator")
     }
 
-    compileSdk flutter.compileSdkVersion
-    compileSdkVersion 34
+    compileSdk 35
+    
 
     defaultConfig {
         minSdkVersion flutter.minSdkVersion
